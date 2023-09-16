@@ -1,0 +1,106 @@
+---
+object: card
+id: f872b281-1419-4b92-ba38-68d253803ba7
+oracle_id: 61006acf-de38-420b-ab7a-685fbd64141c
+multiverse_ids:
+- 198101
+tcgplayer_id: 37299
+cardmarket_id: 21509
+name: Skybreen
+lang: en
+released_at: '2009-09-04'
+uri: https://api.scryfall.com/cards/f872b281-1419-4b92-ba38-68d253803ba7
+scryfall_uri: https://scryfall.com/card/ohop/35/skybreen?utm_source=api
+layout: planar
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.jpg?1547434093
+  normal: https://cards.scryfall.io/normal/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.jpg?1547434093
+  large: https://cards.scryfall.io/large/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.jpg?1547434093
+  png: https://cards.scryfall.io/png/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.png?1547434093
+  art_crop: https://cards.scryfall.io/art_crop/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.jpg?1547434093
+  border_crop: https://cards.scryfall.io/border_crop/front/f/8/f872b281-1419-4b92-ba38-68d253803ba7.jpg?1547434093
+mana_cost: ''
+cmc: 0.0
+type_line: Plane — Kaldheim
+oracle_text: |-
+  Players play with the top card of their libraries revealed.
+  Spells that share a card type with the top card of a library can't be cast.
+  Whenever chaos ensues, target player loses life equal to the number of cards in their hand.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: false
+variation: false
+set_id: 7a8b75a9-7c92-4c3f-976a-322e1eb3b6b6
+set: ohop
+set_name: Planechase Planes
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7a8b75a9-7c92-4c3f-976a-322e1eb3b6b6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aohop&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ohop?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f872b281-1419-4b92-ba38-68d253803ba7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61006acf-de38-420b-ab7a-685fbd64141c&unique=prints
+collector_number: '35'
+digital: false
+rarity: common
+card_back_id: 7840c131-f96b-4700-9347-2215c43156e6
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: 3e90db1f-bf4d-41f1-b261-fb366a247055
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '1.66'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.70'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198101
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skybreen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skybreen&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skybreen
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37299?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skybreen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skybreen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,105 @@
+---
+object: card
+id: '08445a56-25a9-40be-bcf1-a147733d6f0a'
+oracle_id: 81a0d96a-7ac8-4947-8779-2102c9b33d38
+multiverse_ids:
+- 198097
+tcgplayer_id: 37278
+cardmarket_id: 21484
+name: Fields of Summer
+lang: en
+released_at: '2009-09-04'
+uri: https://api.scryfall.com/cards/08445a56-25a9-40be-bcf1-a147733d6f0a
+scryfall_uri: https://scryfall.com/card/ohop/10/fields-of-summer?utm_source=api
+layout: planar
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.jpg?1547434273
+  normal: https://cards.scryfall.io/normal/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.jpg?1547434273
+  large: https://cards.scryfall.io/large/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.jpg?1547434273
+  png: https://cards.scryfall.io/png/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.png?1547434273
+  art_crop: https://cards.scryfall.io/art_crop/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.jpg?1547434273
+  border_crop: https://cards.scryfall.io/border_crop/front/0/8/08445a56-25a9-40be-bcf1-a147733d6f0a.jpg?1547434273
+mana_cost: ''
+cmc: 0.0
+type_line: Plane — Moag
+oracle_text: |-
+  Whenever a player casts a spell, that player may gain 2 life.
+  Whenever chaos ensues, you may gain 10 life.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: true
+promo: false
+reprint: false
+variation: false
+set_id: 7a8b75a9-7c92-4c3f-976a-322e1eb3b6b6
+set: ohop
+set_name: Planechase Planes
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7a8b75a9-7c92-4c3f-976a-322e1eb3b6b6
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aohop&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ohop?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/08445a56-25a9-40be-bcf1-a147733d6f0a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A81a0d96a-7ac8-4947-8779-2102c9b33d38&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+card_back_id: 7840c131-f96b-4700-9347-2215c43156e6
+artist: Daniel Ljunggren
+artist_ids:
+- 0fbd4798-76eb-46d5-a5d4-1e3a25870e34
+illustration_id: 57951dbc-b432-44e5-8514-7e315e0e7b90
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+prices:
+  usd: '11.66'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198097
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fields+of+Summer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fields+of+Summer&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fields+of+Summer
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37278?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fields+of+Summer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fields+of+Summer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
